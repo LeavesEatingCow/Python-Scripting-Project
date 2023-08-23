@@ -1,5 +1,5 @@
-import os
-import json
-import shutil
-from subprocess import PIPE, run
-import sys
+import os   #   Operating System
+import json #   JSON Files
+import shutil   #   Copy/Overwrite
+from subprocess import PIPE, run    #   Allows Terminal functionalty
+import sys  #   Get access to command line arguments
